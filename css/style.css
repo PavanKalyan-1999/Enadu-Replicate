@@ -1,0 +1,35 @@
+*
+{
+    padding:0px;
+    margin:0px;
+}
+.verticalline
+{
+    border-right: 1px solid orange;
+}
+.taketoright
+{
+    display: flex;
+    justify-content: end;
+}
+.search_icon
+{
+    margin-top: 10px;
+}
+.image_width
+{
+    object-fit: cover;
+}
+.snippet_color
+{
+    background-color:#003e67;
+}
+.logo
+{
+    object-fit: cover;
+}
+.icons
+{
+    width:27px;
+    height:27px;
+}
